@@ -1,6 +1,6 @@
 # lingvo-bot
 
-Команда **СЕПУЛЬКИ** занималась обучением модели по текстам [русской фантастикой]:https://sfedu-my.sharepoint.com/personal/chebannyy_sfedu_ru/_layouts/15/onedrive.aspx?slrid=554dad9e%2D20ce%2D7000%2D5e14%2D545640fcb5e1&FolderCTID=0x01200060F775C3ED711748A0CEECA2EAB9B19C&id=%2Fpersonal%2Fchebannyy%5Fsfedu%5Fru%2FDocuments%2FКомпЛингв%2DЧебанный%2FПроект%2FИсходные%20тексты%2Etxt&parent=%2Fpersonal%2Fchebannyy%5Fsfedu%5Fru%2FDocuments%2FКомпЛингв%2DЧебанный%2FПроект.
+Команда **СЕПУЛЬКИ** занималась обучением модели по текстам [русской фантастикой].
 Данная модель представлена в Telegram боте @lingvo-bot.
 
 С ботом можно взаимодействовать в 4х режимах. Чтобы активировать режим, достаточно написать ключевое слово:
@@ -28,3 +28,7 @@
 воробей собака сокол голубь
 собака
 ```
+
+
+
+[русской фантастикой](https://sfedu-my.sharepoint.com/personal/chebannyy_sfedu_ru/_layouts/15/onedrive.aspx?slrid=554dad9e%2D20ce%2D7000%2D5e14%2D545640fcb5e1&FolderCTID=0x01200060F775C3ED711748A0CEECA2EAB9B19C&id=%2Fpersonal%2Fchebannyy%5Fsfedu%5Fru%2FDocuments%2FКомпЛингв%2DЧебанный%2FПроект%2FИсходные%20тексты%2Etxt&parent=%2Fpersonal%2Fchebannyy%5Fsfedu%5Fru%2FDocuments%2FКомпЛингв%2DЧебанный%2FПроект)
